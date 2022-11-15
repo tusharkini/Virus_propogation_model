@@ -1,11 +1,11 @@
-# CSC591 Virus Propogation Model
-> This project implementation is done towards fullfillment of Project 5 of CSC 591 Graph Data Mining
+# CSC591 Virus Propagation Model
+> This project implementation is done towards fulfillment of Project 5 of CSC 591 Graph Data Mining
 
-## Reaserch Paper
-The implementation is inspired by the paper given in `research_paper` folder. The paper is [Got the Flu? (or Mumps) Check the Eigenvalue!](https://arxiv.org/pdf/1004.0060v1.pdf)
+## Research Paper
+The implementation is inspired by the paper given in the `research_paper` folder. The paper is [Got the Flu? (or Mumps) Check the Eigenvalue!](https://arxiv.org/pdf/1004.0060v1.pdf)
 
 ## Goal
-To implement the given prolem and objectives stated [here](https://github.com/tusharkini/Virus_propogation_model/blob/main/objective/P4VirusPropagation.pdf). Analyze the propagation of a virus in a network and prevent a networkwide epidemic. In order to do that, your team will need to:
+To implement the given problem and objectives stated [here](https://github.com/tusharkini/Virus_propogation_model/blob/main/objective/P4VirusPropagation.pdf). Analyze the propagation of a virus in a network and prevent a network wide epidemic. In order to do that, your team will need to:
 - Analyze and understand a virus propagation model.
 - Calculate the effective strength of a virus.
 - Simulate the propagation of a virus in a network.
@@ -49,10 +49,10 @@ You will be provided with the following materials in advance:
     $ pip install --upgrade networkx
     ```
 
-- Create working directory named `Virus_propogation_P5` and go inside it
+- Create working directory named `Virus_propagation_P5` and go inside it
     ```bash
-    $ mkdir Virus_propogation_P5
-    $ cd Virus_propogation_P5
+    $ mkdir Virus_propagation_P5
+    $ cd Virus_propagation_P5
     ```
 - Clone this repository from [here](https://github.com/tusharkini/Virus_propogation_model) or use the following in GitBash
     ```bash
@@ -63,7 +63,7 @@ You will be provided with the following materials in advance:
     ```bash
     $ python main.py 
     ```
-    This will create a series of images in the `results` folder. These plot names are self explainatory in nature.
+    This will create a series of images in the `results` folder. These plot names are self explanatory in nature.
 
 ## Authors
 
